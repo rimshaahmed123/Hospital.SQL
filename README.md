@@ -1,8 +1,8 @@
-# Hospital Management System (Database Project)
+# Hospital Management System (SQL Project)
 
 ##  Project Overview
 
-The **Hospital Management System** is a database project developed using SQL to manage hospital records efficiently. It stores and organizes information related to patients, doctors, appointments, and payments.
+The **Hospital Management System** is a SQL project developed using SQL to manage hospital records efficiently. It stores and organizes information related to patients, doctors, appointments, and payments.
 
 This system helps reduce manual work, improves accuracy, and allows easy data retrieval.
 
