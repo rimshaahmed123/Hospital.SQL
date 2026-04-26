@@ -96,4 +96,3 @@ This output proves that the database is working correctly and storing hospital r
 
 ##  Output <img width="803" height="174" alt="HOSPITAL OUTPUT" src="https://github.com/user-attachments/assets/6b935e84-50ea-43d0-8373-1ba226302828" />
 
-Agar chaho to main **ER diagram + viva questions + SQL queries explanation** bhi bana deta hoon 👍
